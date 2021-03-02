@@ -1,0 +1,1 @@
+This is NotBlue's first git project!
